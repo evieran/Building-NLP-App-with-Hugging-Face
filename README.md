@@ -18,11 +18,12 @@ This sections shows how to implement question-answering models by using pre-trai
 ## 5. Building a Custom Model with Transfer Learning
 In thise section, you are going through:
 
-Loading Hugging Face Datasets: Loading and exploring a pre-labeled dataset.
-Encoding and Preprocessing the Dataset: Encoding text and exploring input IDs and attention masks.
-Creating the Model Architecture: Loading a pre-trained transformer and configuring it for sequence classification.
-Training the Sentiment Model: Training a sentiment model using TensorFlow.
-Predicting Sentiment with the Custom Model: Encoding the dataset and predicting sentiment with the trained model.
-Usage
+- Loading Hugging Face Datasets: Loading and exploring a pre-labeled dataset.
+- Encoding and Preprocessing the Dataset: Encoding text and exploring input IDs and attention masks.
+- Creating the Model Architecture: Loading a pre-trained transformer and configuring it for sequence classification.
+- Training the Sentiment Model: Training a sentiment model using TensorFlow.
+- Predicting Sentiment with the Custom Model: Encoding the dataset and predicting sentiment with the trained model.
+
+# Usage
 Clone the repository and install the necessary packages as listed in the setup instructions. Notebooks and Python files within the repository are well-documented to guide you through each step of the process.
 
